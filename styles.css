@@ -1,0 +1,15 @@
+body {
+    background-color: #c5ccb8;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    width: max-content;
+    height: 50px;
+    background-color: #4569a4;
+    justify-content: center;
+    margin: auto;
+}

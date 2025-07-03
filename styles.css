@@ -1,5 +1,5 @@
 body {
-    background-color: #c5ccb8;
+    background-color: white;
     margin: 0;
 }
 
@@ -15,6 +15,27 @@ nav {
     margin: auto;
 }
 
-p {
+section {
+    max-width: 300px;
+    background-color: #4569a4;
+    margin-left: 100px;
+}
 
+div {
+    max-width: 500px;
+    background-color: #c5ccb8;
+
+}
+
+#learning {
+    margin-left: 800px;
+    background-color: #c5ccb8;
+    max-width: 500px;
+    max-height: 400px;
+}
+
+#friends {
+    text-align: center;
+    background-color: #c5ccb8;
+    max-width: 500px;
 }

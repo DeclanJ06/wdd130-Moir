@@ -1,5 +1,6 @@
 body {
     background-color: #c5ccb8;
+    margin: 0;
 }
 
 h1 {
@@ -7,9 +8,13 @@ h1 {
 }
 
 nav {
-    width: max-content;
-    height: 50px;
+    width: 100%;
+    height: 100px;
     background-color: #4569a4;
     justify-content: center;
     margin: auto;
+}
+
+p {
+
 }

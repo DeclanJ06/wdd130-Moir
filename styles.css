@@ -23,19 +23,27 @@ section {
 
 div {
     max-width: 500px;
+    height: 250px;
     background-color: #c5ccb8;
+    justify-content: center;
 
 }
 
 #learning {
     margin-left: 800px;
+    text-align: center;
     background-color: #c5ccb8;
     max-width: 500px;
-    max-height: 400px;
+    margin-top: 50px;
 }
 
 #friends {
     text-align: center;
     background-color: #c5ccb8;
     max-width: 500px;
+    margin-top: 50px;
+}
+
+img {
+    width: 500px;
 }

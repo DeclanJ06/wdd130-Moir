@@ -10,7 +10,7 @@ h1 {
 nav {
     width: 100%;
     height: 100px;
-    background-color: #4569a4;
+    background-color: #c5ccb8;
     justify-content: center;
     margin: auto;
 }
@@ -19,31 +19,39 @@ section {
     max-width: 300px;
     background-color: #4569a4;
     margin-left: 100px;
+    align-self: anchor-center;
 }
 
 div {
-    max-width: 500px;
+    width: 500px;
     height: 250px;
-    background-color: #c5ccb8;
-    justify-content: center;
-
+    
 }
 
 #learning {
-    margin-left: 800px;
+    margin-left: 850px;
     text-align: center;
-    background-color: #c5ccb8;
+    background-color: #433356;
     max-width: 500px;
-    margin-top: 50px;
+    max-height: 400px;
+    margin-top: -100px;
+    display: grid;
 }
 
 #friends {
     text-align: center;
-    background-color: #c5ccb8;
+    background-color: #433356;
     max-width: 500px;
     margin-top: 50px;
+    margin-left: 100px;
+    display: grid;
 }
 
-img {
-    width: 500px;
+.logo {
+    width: 200px;
+}
+
+.mario {
+    width: 700px;
+    margin-left: 500px;
 }
